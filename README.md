@@ -9,9 +9,9 @@ Cookie_session_auth
 2. Login.
    POST: http://localhost:3000/auth/login
 
-![1758804485430](image/README/1758804485430.png)
+![1758804485430](public/image/README/1758804485430.png)
 
-![1758804504197](image/README/1758804504197.png)
+![1758804504197](public/image/README/1758804504197.png)
 
 3. Profile( đã login)
 
@@ -32,3 +32,4 @@ GET: http://localhost:3000/auth/logout
 GET: http://localhost:3000/auth/profile
 
 ![1758804717772](public/image/README/1758804717772.png)
+
