@@ -2,9 +2,9 @@ Cookie_session_auth
 
 1. POST http://localhost:3000/register
 
-![1758804337962](image/README/1758804337962.png)
+![1758804337962](public/image/README/1758804337962.png)
 
-![1758804426101](image/README/1758804426101.png)
+![1758804426101](public/image/README/1758804426101.png)
 
 2. Login.
    POST: http://localhost:3000/auth/login
@@ -17,18 +17,18 @@ Cookie_session_auth
 
 GET: http://localhost:3000/auth/profile
 
-![1758804575810](image/README/1758804575810.png)
+![1758804575810](public/image/README/1758804575810.png)
 
 4. Logout
 
 GET: http://localhost:3000/auth/logout
 
-![1758804645606](image/README/1758804645606.png)
+![1758804645606](public/image/README/1758804645606.png)
 
-![1758804661306](image/README/1758804661306.png)
+![1758804661306](public/image/README/1758804661306.png)
 
 5. Profile (sau logout)
 
 GET: http://localhost:3000/auth/profile
 
-![1758804717772](image/README/1758804717772.png)
+![1758804717772](public/image/README/1758804717772.png)
