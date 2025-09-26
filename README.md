@@ -1,16 +1,28 @@
-Cookie_session_auth
+**22655111 Nguyen Trong Phuc**
 
-1. POST http://localhost:3000/register
+**Cookie_session_auth**
+
+1. POST http://localhost:3000/auth/register
 
 ![1758804337962](public/image/README/1758804337962.png)
+
+Database:
 
 ![1758804426101](public/image/README/1758804426101.png)
 
 2. Login.
    POST: http://localhost:3000/auth/login
 
+<<<<<<< HEAD
 ![1758804485430](public/image/README/1758804485430.png)
 
+=======
+
+![1758804485430](public/image/README/1758804485430.png)
+
+Database:
+
+>>>>>>> 2728958 (change 5)
 ![1758804504197](public/image/README/1758804504197.png)
 
 3. Profile( đã login)
